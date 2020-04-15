@@ -1,0 +1,24 @@
+.regi_form
+{
+    margin:10px;
+}
+.rform
+{
+    border:2px solid silver;
+    border-radius: 10px;
+    box-shadow: 8px 10px 4px #888888;
+}
+label
+{
+    color:navy;
+}
+.reg_table
+{
+    margin: 4px;
+}
+.institute_app
+{
+    background-image: url('https://st3.depositphotos.com/9829390/13206/v/1600/depositphotos_132065696-stock-illustration-colored-icon-cute-baby-starfish.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
