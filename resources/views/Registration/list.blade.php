@@ -27,7 +27,7 @@
             <th>Gender</th>
             <th>Subject</th>
             <th>Image</th>
-            <th colspan="2" style="text-align:center">Action</th>
+            <th colspan="2" style="text-align:center">Actions</th>
         </tr>
     </thead>
     <tbody>
