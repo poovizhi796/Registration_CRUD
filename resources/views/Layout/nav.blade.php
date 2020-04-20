@@ -5,6 +5,7 @@
         <a class="navbar-brand text-white" href="followup">Follow Ups</a>
         <a class="navbar-brand text-white" href="regular">Regular Classes</a>
         <a class="navbar-brand text-white" href="completed">Completed</a>
+        <a class="navbar-brand text-white" href="ajaxcrud">Ajax Crud</a>
         <!---2options
         course completed
         follow up compltd (not joined students)--->

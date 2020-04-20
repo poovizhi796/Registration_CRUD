@@ -27,3 +27,4 @@ Route::get('regular', 'RegularController@index');
 Route::get('completed/{id}', 'RegularController@completed');
 Route::post('regular/block', 'RegularController@block');
 Route::get('completed', 'FollowupController@completedList');
+Route::get('ajaxcrud', 'AjaxcrudController@index');
