@@ -22,7 +22,7 @@ class CreateRegistrationsTable extends Migration
             $table->string('subject')->nullable();
             $table->string('district', 100);
             $table->text('photo')->nullable();
-            $table->string('status', 100);
+            $table->string('status', 100)->nullable();
             $table->text('reason')->nullable();
             $table->timestamps();
         });
